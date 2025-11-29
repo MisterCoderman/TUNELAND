@@ -1,3 +1,57 @@
+🌟 Tuneland Launcher
+
+A modern launcher for the classic game Tuneland (1994)
+
+This game was originally released as a 16-bit application and cannot run on modern 64-bit Windows without emulation. Tuneland Launcher solves this problem by fully automating the launch via OTVDM and hiding the console window, making the process as convenient as possible.
+
+✨ Features
+
+Automatic launch of Tuneland.exe through OTVDM
+
+Works on Windows 10/11 (x64) without additional configuration
+
+⚙️ Technical Details
+
+Written in C++ (WinAPI)
+
+Compiled with Visual Studio 2015+ using the v140_xp platform
+
+📁 Requirements
+
+Windows 10 or higher
+
+📥 Where to Download
+
+🔹 The launcher is available for download on the GitHub page.
+
+📥 The full version of the game with the integrated launcher is available via this link. 🌐
+
+Run the game only through the Launcher.exe file.
+
+📌 Why is this needed?
+
+16-bit games like Tuneland do not run on modern 64-bit systems because:
+
+64-bit Windows does not support 16-bit applications
+
+Old games rely on outdated APIs and path structures
+
+Without a DOS/16-bit API emulator, the game cannot be launched
+
+⚖️ Respect for Copyright and Developer Support
+
+The Tuneland Launcher project is intended solely to support users who have legally purchased the original Tuneland (1999) and want to run it on modern computers. 🏆 The author is strictly against any form of piracy or copyright infringement.
+
+⚠️ Important: Do not use this version of the game if you do not already own a valid license for Tuneland—whether it’s an original CD, disk, or official digital version. This launcher is only meant to improve compatibility and provide a convenient way to run a game you legally own.
+
+By supporting developers and purchasing games legally, you help preserve classic projects like Tuneland and support the growth of the gaming industry. 💎
+
+📜 License
+
+This project is licensed under the GNU General Public License version 3.0 (GPL-3.0). The full text of the license is available here: https://www.gnu.org/licenses/gpl-3.0.html
+
+<hr>
+
 # 🌟 Tuneland Launcher
 
 Современный лаунчер для классической игры «Страна Мелодий» (1999)
